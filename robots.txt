@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jbelborja17.github.io/profile/sitemap.xml
