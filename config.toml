@@ -1,4 +1,0 @@
-baseURL = 'http://github.com/jbelborja17/profile'
-languageCode = 'en-us'
-title = 'My JB New Hugo Site'
-theme = "PaperMod"
