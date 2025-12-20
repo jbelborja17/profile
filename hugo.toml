@@ -1,5 +1,6 @@
-baseURL = "https://github.com/jbelborja17/profile/"
+baseURL = "https://jbelborja17.github.io/profile/"
 languageCode = "es"
-title = "Mi sitio"
+title = "Mi perfil profesional"
 theme = "PaperMod"
+enableRobotsTXT = true
 
