@@ -1,6 +1,6 @@
 baseURL = "https://jbelborja17.github.io/profile/"
-languageCode = "es"
-title = "Mi perfil profesional"
+languageCode = "en"
+title = "Professional experience"
 theme = "PaperMod"
 enableRobotsTXT = true
 
