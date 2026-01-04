@@ -1,7 +1,7 @@
 ---
 title: "Lead Software Engineer – Personio"
 date: 2022-04-01
-tags: ["leadership", "aws", "temporal", "kotlin", "distributed-systems"]
+tags: ["leadership", "aws", "temporal", "kotlin", "distributed-systems", "JVM", "DataDog", "IaC", "claude", "augment"]
 summary: "Leading backend and platform initiatives in the Native Payroll domain, with a strong focus on reliability and scalability."
 ---
 

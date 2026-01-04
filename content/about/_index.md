@@ -14,3 +14,8 @@ I maintain a strong **production and delivery mindset**, with solid experience i
 
 Outside of day-to-day engineering, I enjoy evolving engineering practices, mentoring other engineers, and exploring how AI can be applied responsibly and effectively to modern software development.
 
+---
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jbelborja)
+- 💻 [GitHub](https://github.com/jbelborja17)
+

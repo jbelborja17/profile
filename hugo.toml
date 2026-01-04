@@ -1,6 +1,6 @@
 baseURL = "https://jbelborja17.github.io/profile/"
 languageCode = "en"
-title = "Professional experience"
+title = "Javier Bel"
 theme = "PaperMod"
 enableRobotsTXT = true
 
@@ -16,4 +16,13 @@ enableRobotsTXT = true
     name = "Experience"
     url = "/experience/"
     weight = 20
+
+[params]
+  mainSections = []
+  defaultTheme = "light"
+  disableThemeToggle = false
+  showReadingTime = false
+  showPostNavLinks = false
+  showCodeCopyButtons = true
+
 

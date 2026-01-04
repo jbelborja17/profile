@@ -1,7 +1,7 @@
 ---
 title: "Senior Software Engineer – Twilio"
 date: 2019-06-01
-tags: ["cloud-native", "distributed-systems", "video", "ci-cd"]
+tags: ["cloud-native", "distributed-systems", "video", "ci-cd", "Aws", "DynamoDB", JVM, "DataDog", "IaC"]
 summary: "Cloud-native backend engineering for real-time voice and video products."
 ---
 
